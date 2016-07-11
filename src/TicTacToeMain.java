@@ -58,8 +58,8 @@ public class TicTacToeMain extends JFrame
       {
     	 @Override
     	 public void mouseMoved(MouseEvent e){
-    		 TicTacToeMain.this.mouseX2 = e.getX();
-    		 TicTacToeMain.this.mouseY2 = e.getY();
+    		 mouseX2 = e.getX();
+    		 mouseY2 = e.getY();
     		 repaint();
     	 }
       });
