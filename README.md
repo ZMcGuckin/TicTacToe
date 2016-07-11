@@ -1,2 +1,2 @@
 # TicTacToe
-A Java Swing Grpahics created port of TicTacToe
+A Java Swing Graphics created port of TicTacToe
